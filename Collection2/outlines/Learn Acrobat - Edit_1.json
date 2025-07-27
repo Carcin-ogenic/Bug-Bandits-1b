@@ -1,0 +1,95 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Edit text in a PDF",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Set the default font for adding and editing text",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Change, replace, or delete text",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Add new text",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Add or edit lists",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Change font color",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Change font",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Change font size",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Redo text in Acrobat",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Undo text in Acrobat",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Change paragraph spacing",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Edit images or objects in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "About editing text and images",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Add images in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Modify images in a PDF",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Delete images from a PDF",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Add Objects to PDF",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Edit an image outside Acrobat",
+      "page": 15
+    }
+  ]
+}

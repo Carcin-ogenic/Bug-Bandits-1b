@@ -1,0 +1,100 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Share",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PDF sharing options",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Send an anonymous or public link in an email",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Mark up text",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Highlight, strikethrough, or underline text",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "comment",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Using Markup Tool",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Change the color of the markup",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Delete The Markup",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Replace text",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Export text edits",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Share a PDF for review",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Send an anonymous or public link in an email",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Reviewer experience",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Send personalized invitations for commenting",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Initiate a review using @mention in a PDF",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Reviewer experience",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Initiate SharePoint-based shared review",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "using Acrobat",
+      "page": 13
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 {
-  "title": "A Comprehensive Guide to Traditions and Culture in the South of France",
+  "title": "",
   "outline": [
+    {
+      "level": "H1",
+      "text": "A Comprehensive Guide to Traditions and Culture in the South of France",
+      "page": 0
+    },
     {
       "level": "H1",
       "text": "Introduction",
@@ -22,73 +27,98 @@
       "page": 1
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Festivals and Celebrations",
       "page": 1
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Carnival of Nice",
       "page": 1
     },
     {
-      "level": "H2",
-      "text": "Fête de la Musique",
+      "level": "H1",
+      "text": "Transhumance Festivals",
       "page": 1
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Traditional Sports and Games",
       "page": 2
     },
     {
-      "level": "H2",
+      "level": "H1",
+      "text": "Pétanque",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Course Camarguaise",
+      "page": 2
+    },
+    {
+      "level": "H1",
       "text": "Culinary Traditions",
       "page": 2
     },
     {
-      "level": "H2",
+      "level": "H1",
+      "text": "Provençal Cuisine",
+      "page": 2
+    },
+    {
+      "level": "H1",
       "text": "Wine and Vineyards",
       "page": 2
     },
     {
-      "level": "H2",
+      "level": "H1",
+      "text": "Truﬄe Hunting",
+      "page": 2
+    },
+    {
+      "level": "H1",
       "text": "Arts and Crafts",
       "page": 3
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Pottery and Ceramics",
       "page": 3
     },
     {
-      "level": "H2",
-      "text": "Lavender Products",
-      "page": 3
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "Religious and Spiritual Traditions",
       "page": 3
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Pilgrimages",
       "page": 3
     },
     {
-      "level": "H2",
+      "level": "H1",
+      "text": "Christmas Traditions",
+      "page": 3
+    },
+    {
+      "level": "H1",
       "text": "Music and Dance",
       "page": 4
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Provençal Folk Music",
       "page": 4
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Jazz Manouche",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
       "page": 4
     }
   ]

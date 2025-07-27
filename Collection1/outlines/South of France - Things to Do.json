@@ -7,12 +7,12 @@
       "page": 0
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Coastal Adventures",
       "page": 1
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Beach Hopping",
       "page": 1
     },
@@ -22,12 +22,12 @@
       "page": 1
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Cultural Experiences",
       "page": 2
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Art and Museums",
       "page": 2
     },
@@ -37,12 +37,12 @@
       "page": 2
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Outdoor Activities",
       "page": 3
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Hiking and Biking",
       "page": 3
     },
@@ -57,7 +57,7 @@
       "page": 4
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Wine Tasting",
       "page": 4
     },
@@ -67,32 +67,27 @@
       "page": 4
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Festivals and Events",
       "page": 5
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Relaxation and Wellness",
       "page": 6
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Spa and Wellness Retreats",
       "page": 6
     },
     {
-      "level": "H2",
-      "text": "Yoga and Meditation Retreats",
-      "page": 6
-    },
-    {
-      "level": "H2",
+      "level": "H1",
       "text": "Shopping and Markets",
       "page": 7
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Local Markets",
       "page": 7
     },
@@ -102,7 +97,7 @@
       "page": 7
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Family-Friendly Activities",
       "page": 8
     },
@@ -112,7 +107,7 @@
       "page": 8
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Outdoor Adventures",
       "page": 8
     },
@@ -122,7 +117,7 @@
       "page": 8
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Nightlife and Entertainment",
       "page": 10
     },

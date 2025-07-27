@@ -1,0 +1,55 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Clear chat history",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Read-aloud generated responses",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Change the playback speed",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Multiple document support in AI Assistant",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Remove files from a collection",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Request access in Acrobat",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Review the status of your request",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Common questions",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Prerequisites",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "License deployment",
+      "page": 17
+    }
+  ]
+}

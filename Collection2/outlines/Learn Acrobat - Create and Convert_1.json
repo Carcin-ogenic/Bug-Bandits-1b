@@ -1,0 +1,200 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "What’s the best way to create a PDF?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PDF creation methods by file type",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "File Type PDF Creation Methods",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Balance PDF file size and quality",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Convert a file to PDF using Acrobat menu",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Convert a file to PDF using the Convert to PDF tool",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Drag-and-drop to create PDFs",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Convert clipboard content to PDF",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Create a blank PDF",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Create multiple PDFs from multiple files",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "About Acrobat PDFMaker",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Using Create PDF cloud service for PDF",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "conversion",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Convert a file to PDF using PDFMaker",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Convert a file to PDF",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF and share via Outlook",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF as an email attachment",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Attach a file as PDF (Outlook)",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF and send it for review",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF and run an action",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "View PDFMaker conversion settings",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Settings tab of the Adobe PDFMaker preferences",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Conversion Settings",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Convert Document Information",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Security tab of the Adobe PDFMaker preferences",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Changes Allowed",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Excel files to PDF",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Convert Excel files to PDF",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Convert Word and PowerPoint files to PDF",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Convert email messages to PDFs",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Convert an open email message to PDF (Outlook)",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Convert email messages to a new PDF",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Add email messages or folders to an existing PDF",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Convert email folders to a new PDF",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Set up automatic email archiving",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Create PDFs from Word mail merges",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Email options for PDF mail merges",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Convert Visio files to PDF (Acrobat Pro)",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Convert Visio files",
+      "page": 28
+    }
+  ]
+}

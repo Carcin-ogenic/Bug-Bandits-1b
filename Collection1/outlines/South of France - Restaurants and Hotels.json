@@ -7,7 +7,7 @@
       "page": 0
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Restaurants",
       "page": 1
     },
@@ -17,22 +17,22 @@
       "page": 1
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Family-Friendly Restaurants",
       "page": 2
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Upscale Restaurants",
       "page": 3
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Luxurious Restaurants",
       "page": 5
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Hotels",
       "page": 7
     },
@@ -42,7 +42,7 @@
       "page": 7
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Family-Friendly Hotels",
       "page": 8
     },
@@ -52,7 +52,7 @@
       "page": 10
     },
     {
-      "level": "H2",
+      "level": "H1",
       "text": "Luxurious Hotels",
       "page": 11
     },

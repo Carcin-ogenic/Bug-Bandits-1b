@@ -1,0 +1,290 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Select Visio layers to convert (Acrobat Pro)",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Convert AutoCAD files to PDF (Acrobat Pro for",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Windows)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Convert AutoCAD files when AutoCAD is installed",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Select AutoCAD layers to convert",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Convert AutoCAD files in batches",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Application-specific PDFMaker settings",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Attach Source File",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Create Bookmarks",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Add Links",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Convert Comments",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Fit Worksheet To A Single Page",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Fit To Paper Width",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Preserve Slide Transitions",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Convert Hidden Slides To PDF Pages",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Convert Speaker Notes",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Compatibility",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Attachments",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Output Adobe PDF Portfolio When Creating A New PDF File",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Block Download Of External Content",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Page Layout options",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Show “Attach As Adobe PDF” Buttons",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "AutoCAD-specific options on the Settings tab (Acrobat Pro)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Open Layers Pane When Viewed In Acrobat",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Do Not Convert Model Space To 3D",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Choose Layout Option",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Exclude Model Space",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Choose Layer Option",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Include Visio Custom Properties As Object Data In The Adobe PDF",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Exclude Visio Objects With No Custom Properties",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Convert Comments To Adobe PDF Comments",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Open Layers Pane When Viewed In Acrobat",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Convert Displayed Comments To Notes In Adobe PDF",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Reviewer",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Notes Open",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Color",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Convert Footnote And Endnote Links",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Convert signature fields specified by pdfmarks",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Enable Advanced Tagging",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Bookmarks tab settings (Microsoft Word)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Convert Word Headings To Bookmarks",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Convert Word Styles To Bookmarks",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Convert Word Bookmarks",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Bookmark",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Create PDFs by printing to file",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Create a PDF using the Print command (Windows)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Adobe PDF printing preferences (Windows)",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Adobe PDFConversion Settings",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Adobe PDF Security",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Adobe PDF Output Folder",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Adobe PDF Page Size menu",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Replace Existing PDF",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "View Adobe PDF Results",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Add Document Information",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Delete Log Files For Successful Jobs",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Set Adobe PDF printer properties (Windows)",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Set Adobe PDF printer properties",
+      "page": 16
+    }
+  ]
+}

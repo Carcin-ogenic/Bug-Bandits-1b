@@ -1,0 +1,340 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Export",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Save a PDF",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Recover the last saved version",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "About the Autosave feature",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Set up automatic saving",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Recover lost changes after an unexpected shutdown",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to DOCX",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to DOC",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to PPTX",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "File format opƟons for PDF export in Acrobat",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Adobe PDF options",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "File settings",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Color management",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "RGB/CMYK/Grayscale",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Colorspace/Resolution",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "File settings",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Color management",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "RGB/Grayscale",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Colorspace/Resolution",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "File settings",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Monochrome",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Color management",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "RGB/CMYK/Grayscale/Other",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Colorspace/Resolution",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Layout Settings",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Image Settings",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to RTF",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to HTML Web Page",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "PDF to HTML conversion seƫngs",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Single html page",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Multiple html pages",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Include Images",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Detect and Remove Headers and Footers",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Recognize Text If Needed",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Set Language",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to MicrosoŌ Excel",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to Microsoft Excel (XLSX)",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to XML",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Recognize Text If Needed",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Set Language",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Font Inclusion",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Include Preview",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Page Range",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to Text and XML 1.0",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to XML 1.0",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to text",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Output file settings",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Encoding",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Generate Bookmarks",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Generate Tags For Untagged Files",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Image file settings",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Generate Images",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Use Sub-Folder",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Use Prefix",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Output Format",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Downsample To",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to TIFF",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to PNG",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "Overview",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Export images from PDFs",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Select and copy text and images",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Select text and images",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Select a column of text",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Select all the text on a page",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Copy selected text",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Paste copied text and images",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Convert selected content to other formats",
+      "page": 29
+    }
+  ]
+}

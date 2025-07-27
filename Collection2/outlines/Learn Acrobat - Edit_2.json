@@ -1,0 +1,105 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Export PDF images to another format",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "pages in a PDF",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Rotate pages in a PDF",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Extract pages from a PDF",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Extract random pages from a PDF",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Split PDFs into multiple documents",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "File Size",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Split multiple PDFs",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "File Size",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Move or copy pages in a PDF",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Move or copy a page",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Copy a page between two PDFs",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Delete or replace pages in a PDF",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Delete multiple pages in a PDF",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Delete a page in a PDF",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages in a PDF",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages between multiple PDFs",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Renumber pages in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Edit Scanned PDFs",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "clear PDFs",
+      "page": 15
+    }
+  ]
+}

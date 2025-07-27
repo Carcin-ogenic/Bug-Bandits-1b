@@ -11,6 +11,7 @@ from transformers import AutoTokenizer
 _S = re.compile(r"\s+")
 def norm(txt: str) -> str:
     """NFKC, unescape, collapse whitespace."""
+    # circled1 treated as normal 1
     return _S.sub(" ", unicodedata.normalize("NFKC", html.unescape(txt))).strip()
 
 # ---------- dense retriever (60 MB ONNX) ------------------------------------
