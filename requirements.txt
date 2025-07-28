@@ -1,14 +1,4 @@
 numpy<3.0
 onnxruntime==1.18.0
-transformers==4.46.0       # tokenizer + MPNet cross-encoder
-torch==2.2.2+cpu           # needed by MPNet; add extra-index URL
-
-# Persona+Job  ──►  MiniLM-L12 embed ──►  Cosine search over headings (10k)
-#                                          │ top 120                                   
-#                                          ▼
-#                          Cross-encoder (“sbert-mpnet-base” 440 MB)
-#                                          │ re-scores 120 pairs
-#                                          ▼
-#                            Top 15 headings  (↑ accuracy)
-#                                  │
-#          aggregate → 5 best sections → 5 best sub-sections
+transformers==4.46.0
+PyMuPDF>=1.18.0       
