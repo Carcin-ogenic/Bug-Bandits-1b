@@ -23,13 +23,13 @@ from utils    import norm, embed_dense, cross_score
 from headings import extract_pages_with_headings
 
 # ─── tunables (stay < 50 s) ───────────────────────────────────────────────
-TOP_K_DENSE       = 140       # headings kept after cosine filter
-TOP_K_CE          = 60         # pairs sent to cross encoder
-SECTIONS_FOR_SCAN = 40        # parents kept for child scan
-ALPHA_H , ALPHA_C = 0.15, 0.20
-BETA_CE           = 0.65
-LEVEL_W           = {"TITLE":1.9, "H1":1.6, "H2":1.3, "H3":1.0}
-MAX_SECTIONS_OUT  = 5
+TOP_K_DENSE         = 150        # headings that survive cosine filter
+TOP_K_CE            = 60         # pairs sent to cross encoder
+SECTIONS_FOR_SCAN   = 40         # H1/TITLE kept for child scan
+ALPHA_H , ALPHA_C   = 0.22, 0.23
+BETA_CE             = 0.55
+LEVEL_W             = {"TITLE":2.5, "H1":2.0, "H2":1.3, "H3":1.0}
+MAX_SECTIONS_OUT    = 5
 # ───────────────────────────────────────────────────────────────────────────
 
 def cosine(mat: np.ndarray, vec: np.ndarray) -> np.ndarray:
@@ -87,7 +87,7 @@ def main(chal_json: str, cache_npz: str, out_json: str) -> None:
     ce_query = f"{persona}: {job}"
     ce_pairs = [(
         ce_query,
-        f"{meta[i][2]} {meta[i][3]}. PDF={meta[i][0]}. Context: {chunks[p][:2000]}"
+        f"{meta[i][2]} {meta[i][3]} {chunks[p][:2000]}"
     ) for p,i in enumerate(idx_dense[:TOP_K_CE])]
     ce_raw   = collapse(cross_score(ce_pairs))
     ce_norm  = (ce_raw - ce_raw.min()) / (ce_raw.ptp()+1e-8)

@@ -48,7 +48,7 @@ def main(outlines_dir: str, cache_path: str) -> None:
              emb=vectors,
              meta=np.array(meta, dtype="object"),
              titles=np.array(titles, dtype="object"))
-    print(f"✅  cached {len(texts)} headings  →  {cache_path}")
+    print(f"✓ cached {len(texts)} headings  →  {cache_path}")
 
 
 if __name__ == "__main__":
